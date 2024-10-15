@@ -1,6 +1,6 @@
 {
   "name": "PSA Car Controller gcworld",
-  "version": "v3.5.3",
+  "version": "v3.5.4",
   "slug": "psacc",
   "description": "Control and get information from your PSA car",
   "arch": [
@@ -15,7 +15,7 @@
   "ports": {
     "5000/tcp": null
     },
-  "image": "gcworld/psa_car_controller",
+  "image": "seeadler06/psa_car_controller",
   "legacy": true,
   "ingress": true,
   "ingress_port": 5000,
